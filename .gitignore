@@ -1,0 +1,10 @@
+# FrontEnd
+frontend/node_modules/
+frontend/dist/
+
+# BackEnd
+backend/.env
+backend/venv/
+
+# Docs
+Docs/
